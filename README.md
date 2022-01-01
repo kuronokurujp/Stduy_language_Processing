@@ -1,0 +1,2 @@
+# Stduy_language_Processing
+数式のプログラム検証やグラフィック演出の検証の成果一覧
